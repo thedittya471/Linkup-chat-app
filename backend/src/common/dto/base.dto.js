@@ -17,4 +17,4 @@ class BaseDto {
   }
 }
 
-export default Joi;
+export default BaseDto;
